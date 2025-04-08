@@ -4,6 +4,8 @@ namespace WinFormsApp2
     {
         public Form1()
         {
+            hi how r u
+            eeeeeeee
             InitializeComponent();
         }
     }
